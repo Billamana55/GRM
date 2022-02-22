@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xA77c7C9C06E3165Cb6b306Fa8B5A37e3bB4536f5",
-  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xa77c7c9c06e3165cb6b306fa8b5a37e3bb4536f5",
+  "CONTRACT_ADDRESS": "0xbd25b7abb083e87de6ac98f29bf044856c91a81f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xbd25b7abb083e87de6ac98f29bf044856c91a81f",
   "NETWORK": {
     "NAME": "Mumbai Polygon",
     "SYMBOL": "Matic",
     "ID": 80001
   },
-  "NFT_NAME": "GRIMBTR",
-  "SYMBOL": "GB",
+  "NFT_NAME": "GRIMBUT",
+  "SYMBOL": "GMB",
   "MAX_SUPPLY": 992,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 0.2,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/grimbtr",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/grimbut",
   "SHOW_BACKGROUND": true
 }
